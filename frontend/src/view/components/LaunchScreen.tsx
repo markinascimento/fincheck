@@ -9,8 +9,6 @@ interface LaunchScreenProps {
 }
 
 export function LaunchScreen({ isLoading }: LaunchScreenProps) {
-  console.log(typeof Logo);
-
   return (
     <Transition
       show={isLoading}

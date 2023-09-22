@@ -1,6 +1,6 @@
 export function Investiment() {
   return (
-    <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="32" height="32" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="1" y="1" width="40" height="40" rx="20" fill="#E9ECEF"/>
       <path d="M14.52 29.2735V27.3535" stroke="#495057" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
       <path fillRule="evenodd" clipRule="evenodd" d="M15.2547 27.3538H13.7845C12.9981 27.3538 12.3601 26.7182 12.3601 25.9339V21.0928C12.3601 20.3084 12.9981 19.6738 13.7845 19.6738H15.2547C16.0421 19.6738 16.68 20.3084 16.68 21.0928V25.9339C16.68 26.7182 16.0421 27.3538 15.2547 27.3538Z" stroke="#495057" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>

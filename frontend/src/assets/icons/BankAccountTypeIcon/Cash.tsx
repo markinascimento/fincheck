@@ -1,6 +1,6 @@
 export function Cash() {
   return (
-    <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="32" height="32" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="1" y="1" width="40" height="40" rx="20" fill="#E9ECEF"/>
       <path d="M15.1884 13.9492H26.8116C28.777 13.9492 30 15.3367 30 17.3001V24.6986C30 26.6621 28.777 28.0495 26.8106 28.0495H15.1884C13.223 28.0495 12 26.6621 12 24.6986V17.3001C12 15.3367 13.2289 13.9492 15.1884 13.9492Z" stroke="#495057" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
       <path d="M15.6641 20.2988V21.7019" stroke="#495057" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
